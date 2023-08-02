@@ -16,6 +16,15 @@
 
 ![MaRcINFo GitHub stats](https://github-readme-stats.vercel.app/api?username=inforsol10&show_icons=true&theme=onedark)
 
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+🌐 https://inforsol10.github.io/novoprojeto
+
+🌐 https://inforsol10.github.io/rocketseat/projeto
+
+🌐 https://inforsol10.github.io/rocketseat/desafio
+
+[![]()]()
 ### 🚀 Tecnologias e Ferramentas que utilizo
 
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
