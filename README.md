@@ -2,11 +2,13 @@
 
 ### 🤖 Apaixonado por Tecnologia
 
-#### 🔭 Atualmente trabalhando na empresa Ponto Central
+##### 🔭 Atualmente trabalhando na empresa Ponto Central
 
+##### ![Alt text](computer.png) Técnico em informática
 
+##### ![Alt text](Crystal_Clear_app_tux.png) Administrador de Sistemas Linux em Servidores
+##### ![Alt text](dev.png) ingressando na área de desenvolvimento WEB
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://inforsol10.github.io/novoprojeto)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/oliveira.mx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -47,4 +49,6 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inforsol10&layout=pie)]()
 
-[![](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)]()
+### 👨🏻‍🎓 Meus Certificados
+
+[![]()🎓 Rocketseat](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)
