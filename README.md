@@ -4,10 +4,11 @@
 
 ##### 🔭 Atualmente trabalhando na empresa Ponto Central
 
-##### ![Alt text](computer.png) Técnico em informática
+##### ![Alt text](computer-1.png) Técnico em Informática
 
-##### ![Alt text](Crystal_Clear_app_tux.png) Administrador de Sistemas Linux em Servidores
-##### ![Alt text](dev.png) ingressando na área de desenvolvimento WEB
+##### ![Alt text](Crystal_Clear_app_tux-1.png) Administrador de Sistemas Linux em Servidores
+
+##### ![Alt text](dev-1.png) Ingressando no Ramo de Desenvolvimento Web
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/oliveira.mx)
@@ -25,6 +26,10 @@
 🌐 https://inforsol10.github.io/rocketseat/projeto
 
 🌐 https://inforsol10.github.io/rocketseat/desafio
+
+### 👨🏻‍🎓 Meus Certificados
+
+[![]()🎓 Rocketseat](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)
 
 [![]()]()
 ### 🚀 Tecnologias e Ferramentas que utilizo
@@ -49,6 +54,4 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inforsol10&layout=pie)]()
 
-### 👨🏻‍🎓 Meus Certificados
 
-[![]()🎓 Rocketseat](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)
