@@ -29,8 +29,9 @@
 
 ### 👨🏻‍🎓 Meus Certificados
 
-[![]()🎓 Rocketseat](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)
-[![]()🎓 Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-d972bfa8-7d02-417d-b85b-c8f382231bb1.jpg)
+[![Rocketseat](certificado_rocket-2.png) Rocketseat](https://app.rocketseat.com.br/certificates/7aeecf5e-2628-4fdc-b171-970d094a3e39)
+
+[![Udemy](certificado_rocket-2.png) Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-d972bfa8-7d02-417d-b85b-c8f382231bb1.jpg)
 
 [![]()]()
 ### 🚀 Tecnologias e Ferramentas que utilizo
